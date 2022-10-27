@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Testing the weather API",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parikshit001/Weather-App.git"
+  },
+  "author": "Parikshit Hiwase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parikshit001/Weather-App/issues"
+  },
+  "homepage": "https://github.com/Parikshit001/Weather-App#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
